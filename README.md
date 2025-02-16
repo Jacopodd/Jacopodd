@@ -22,8 +22,7 @@ I am a **software developer** with a strong background in cybersecurity and web 
 ✅ **BodyTech** - System for managing workout plans and fitness tracking 💪  
 
 📫 **How to contact me?**  
-🔗 [LinkedIn](https://linkedin.com/in/jacopo-de-dominicis-b17ba5239)  
-🌍 [Portfolio](https://yourwebsite.com)  
+🔗 [LinkedIn](https://linkedin.com/in/jacopo-de-dominicis-b17ba5239)   
 📧 [Email](mailto:jacopodedominicisdeveloper@gmail.com)  
 
 📊 **GitHub Stats**  
