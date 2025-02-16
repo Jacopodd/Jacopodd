@@ -62,7 +62,7 @@ Sono uno **sviluppatore informatico** con un forte background in sicurezza infor
 ✅ **BodyTech** - Sistema per la gestione delle schede di allenamento e monitoraggio fitness 💪  
 
 📫 **Come contattarmi?**  
-🔗 [LinkedIn](https://linkedin.com/in/jacopo-de-dominicis-b17ba5239/)
+🔗 [LinkedIn](https://linkedin.com/in/jacopo-de-dominicis-b17ba5239)   
 📧 [Email](mailto:jacopodedominicisdeveloper@gmail.com)  
 
 📊 **Statistiche GitHub**  
