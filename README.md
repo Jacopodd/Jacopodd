@@ -27,7 +27,7 @@ I am a **software developer** with a strong background in cybersecurity and web 
 
 📊 **GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jacopodd&show_icons=true&theme=github_dark&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacopodd&layout=compact&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacopodd&layout=compact&theme=github_dark&cache_seconds=3600)
 
 💡 **Always open to new collaborations and technological challenges!** 🚀  
 
