@@ -67,6 +67,6 @@ Sono uno **sviluppatore informatico** con un forte background in sicurezza infor
 
 📊 **Statistiche GitHub**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jacopodd&show_icons=true&theme=github_dark&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacopodd&layout=compact&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacopodd&layout=compact&theme=github_dark&cache_seconds=3600)  
 
 💡 **Sempre aperto a nuove collaborazioni e sfide tecnologiche!** 🚀  
